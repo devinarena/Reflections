@@ -86,7 +86,7 @@ const App = () => {
           })
         }
         {section === "Reflective Presentation" &&
-          <p>I built this site using ReactJS and pure CSS. For my fellow dorks, you can view the site source code <a href='https://github.com/devinarena/'>here</a>.</p>}
+          <p>I built this site using ReactJS and pure CSS. For my fellow dorks, you can view the site source code <a href='https://github.com/devinarena/Reflections'>here</a>.</p>}
       </div>
     </div>
   );
